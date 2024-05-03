@@ -1,0 +1,12 @@
+C:\Users\susantju\source\repos\Latihan1\Latihan1\bin\Debug\Latihan1.exe.config
+C:\Users\susantju\source\repos\Latihan1\Latihan1\bin\Debug\Latihan1.exe
+C:\Users\susantju\source\repos\Latihan1\Latihan1\bin\Debug\Latihan1.pdb
+C:\Users\susantju\source\repos\Latihan1\Latihan1\bin\Debug\Latihan1.xml
+C:\Users\susantju\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.vbproj.AssemblyReference.cache
+C:\Users\susantju\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.Form1.resources
+C:\Users\susantju\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.Resources.resources
+C:\Users\susantju\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.vbproj.GenerateResource.cache
+C:\Users\susantju\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.vbproj.CoreCompileInputs.cache
+C:\Users\susantju\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.exe
+C:\Users\susantju\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.xml
+C:\Users\susantju\source\repos\Latihan1\Latihan1\obj\Debug\Latihan1.pdb
